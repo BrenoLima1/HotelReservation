@@ -40,3 +40,4 @@ The project follows a modular structure:
 - Java 21
 - No external libraries are required.
 # HotelReservation
+# Bank
